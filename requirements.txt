@@ -6,7 +6,7 @@ msgpack
 pre-commit
 pytest
 sphinx_rtd_theme
-torch==1.0.0
+torch==2.2.0
 websockets
 zstd
 sklearn
